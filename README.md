@@ -15,4 +15,4 @@ This dataset contains 113,937 loans with 81 variables on each loan, including lo
 
 ## Key Insights for Presentation
 
-> For the presentation, I focused on features that could affect the borrower APR, which are original loan amount, Prosper rating. I showed the distribution of the borrower APR, loan amount and ProsperRating (Alpha) variables. Then, I showed the relationship between APR vs. loan amount. I also showed the multivariate relationship between rating, loan term and APR. 
+For the presentation, I focused on features that could affect the borrower APR, which are original loan amount, Prosper rating. I showed the distribution of the borrower APR, loan amount and ProsperRating (Alpha) variables. Then, I showed the relationship between APR vs. loan amount. I also showed the multivariate relationship between rating, loan term and APR. 
